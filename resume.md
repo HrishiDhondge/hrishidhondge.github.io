@@ -75,8 +75,7 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
       Presented a poster on Biomarkers in a national conference held at BAMU, Aurangabad in 2014.
   </li>
 </ul>
-<br>
-<h5> Participation </h5>
+<h4> Participation </h4>
 <ul>
   <li>
       Participated in 19th European Conference on Computational Biology(ECCB2020).
