@@ -36,7 +36,8 @@ title: Resume
 <ul>
   <li>
     2019 – Present: <b> PhD in Computational Biology, at <a href="https://www.loria.fr/en/" target="_blank"><i>LORIA-INRIA, Nancy.</i></a>.</b> <br>
-    Marie-Sklodowska Curie PhD student. Part of <a href="http://rnact.eu/" target="_blank">RNAct</a> MSCA-ITN project.
+    Marie-Sklodowska Curie PhD student. Part of <a href="http://rnact.eu/" target="_blank">RNAct</a> MSCA-ITN project.<br>
+    My doctoral thesis focuses on the data integration and analysis of RNA recognition motifs (RRMs) to help modeling their 3D structure and their binding to RNA.<br>
   </li>
   <li>
     2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics</i></a>, Pondicherry University.</b> <br>
