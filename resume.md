@@ -65,19 +65,29 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
 <p>
 <ul>
   <li>
+      People's pick award for the challenge "Predicting multi-mutant miniprotein stability" in <a href="https://biohackathon.biolib.com/event/2021-protein-edition/" target="_blank">Copenhagen Bioinformatics Hackathon 2021</a> edition.
+    </li>
+    <li>
+      Coordinator of the Tech-expo event held at MGM College of CS & IT Nanded in 2017.
+  </li>
+  <li>
+      Presented a poster on Biomarkers in a national conference held at BAMU, Aurangabad in 2014.
+  </li>
+</ul>
+<br>
+<h5> Participation </h5>
+<ul>
+  <li>
+      Participated in 19th European Conference on Computational Biology(ECCB2020).
+    </li>
+  <li>
       Participated in One-day Symposium on “Cross-talk in Omics” organized by Centre for Bioinformatics, Pondicherry University.
     </li>
   <li>
       Participated in “Short Course on Big Data Analytics and Cloud Computing by Mr. S. Sundara Pandian, Certification Centre at Pondicherry University.
   </li>
   <li>
-      Coordinator of the Tech-expo event held at MGM College of CS & IT Nanded in 2017.
-  </li>
-  <li>
       Participated in the Tech-expo event held at MGM College of CS & IT, Nanded in 2015 and 2016.
-  </li>
-  <li>
-      Attended the conference and presented a poster on Biomarkers held at BAMU, Aurangabad in 2014.
   </li>
 </ul>
 </p>
@@ -88,7 +98,7 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
 I am a fast learner and I am interested in learning new skills. 
 <ul>
   <li>
-    Programming languages: <b>Python, PERL, SQL</b>
+    Programming languages: <b>Python, SQL, PERL</b>
   </li>
   <li>
     Markup languages: <b>Markdown, LaTeX</b>
