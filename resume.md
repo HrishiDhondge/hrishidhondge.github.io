@@ -35,7 +35,7 @@ title: Resume
 <p>
 <ul>
   <li>
-    2019 – Present: <b> PhD in Computational Biology, at <i><a href="https://www.loria.fr/en/" target="_blank">LORIA </a>(CNRS, University of Lorraine, INRIA)</i>.</b> <br>
+    2019 – Present: <b> PhD in Computational Biology, at <i><a href="https://www.loria.fr/en/" target="_blank">LORIA</a> (CNRS, University of Lorraine, INRIA)</i>.</b> <br>
     Marie-Sklodowska Curie PhD student. Part of <a href="http://rnact.eu/" target="_blank">RNAct</a> MSCA-ITN project.<br>
     - My doctoral thesis focuses on the data integration and analysis of RNA recognition motifs (RRMs) to help modeling their 3D structure and their binding to RNA.<br>
   </li><br>
