@@ -29,7 +29,7 @@ title: Resume
 </style>
 
 <p></p>
-<i>Last updated on 23 August 2020.</i>
+<i>Last updated on 28 June 2021.</i>
 
 <h4>Education</h4>
 <p>
@@ -41,7 +41,8 @@ title: Resume
   </li>
   <li>
     2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics</i></a>, Pondicherry University.</b> <br>
-    Thesis topic: DNA-based data storage system. Supervisor: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.
+    Thesis topic: DNA-based data storage system. Supervisor: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.<br>
+    I worked on computational aspects of DNA-based data storage system. We showed that the use of modified nucleotides will increase the storage density by creating a 4-layer encoding strategy, and achieved data storage capacity of 1 byte per two nucleotide base pairs without any compression. <br>
   </li>
   <li>
     2014 – 2017: <b> BSc in Bioinformatics, <i><a href="http://www.mgmccsit.ac.in/" target="_blank">MGM's college of CS & IT, Nanded</a> affiliated to <a href="http://www.srtmun.ac.in/en/" target="_blank">SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY, Nanded</a></i>.</b> 
