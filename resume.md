@@ -40,7 +40,7 @@ title: Resume
     - My doctoral thesis focuses on the data integration and analysis of RNA recognition motifs (RRMs) to help modeling their 3D structure and their binding to RNA.<br>
   </li><br>
   <li>
-      March 2021-July 2021: <b>Research Stay</b> at <a href="https://www.vub.be/" target="_blank" >Vrije Universiteit Brussel</a>, Belgium.<br>
+      March 2021-July 2021: <b>Research Stay</b> at <a href="https://www.vub.be/" target="_blank" >Vrije Universiteit Brussel</a>, Belgium in <a href="https://bio2byte.be/" target="_blank">Bio2Byte group</a>.<br>
   </li><br>
   <li>
     2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics</i></a>, Pondicherry University.</b> <br>
