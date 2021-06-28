@@ -40,6 +40,9 @@ title: Resume
     - My doctoral thesis focuses on the data integration and analysis of RNA recognition motifs (RRMs) to help modeling their 3D structure and their binding to RNA.<br>
   </li><br>
   <li>
+      March 2021-July 2021: <b>Research Stay</b> at <a href="https://www.vub.be/" target="_blank" >Vrije Universiteit Brussel</a>, Belgium.<br>
+  </li><br>
+  <li>
     2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics</i></a>, Pondicherry University.</b> <br>
     Thesis topic: DNA-based data storage system. Supervisor: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.<br>
     - I worked on computational aspects of DNA-based data storage system. We showed that the use of modified nucleotides will increase the storage density by creating a 4-layer encoding strategy, and achieved data storage capacity of 1 byte per two nucleotide base pairs without any compression. <br>
