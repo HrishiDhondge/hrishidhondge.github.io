@@ -69,6 +69,9 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
 <p>
 <ul>
   <li>
+      At Student Council Symposium 2021, presented some of the results from my PhD. <a href="https://doi.org/10.5281/zenodo.5146027" target="_blank">Click here</a> to see the poster.
+    </li>
+  <li>
       People's pick award for the challenge "Predicting multi-mutant miniprotein stability" in <a href="https://biohackathon.biolib.com/event/2021-protein-edition/" target="_blank">Copenhagen Bioinformatics Hackathon 2021</a> edition.
     </li>
     <li>
