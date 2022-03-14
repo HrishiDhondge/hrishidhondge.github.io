@@ -28,8 +28,10 @@ title: Resume
 }
 </style>
 
-<p></p>
-<i>Last updated on 28 June 2021.</i>
+<p align="Right">
+<h5><a href="{{ site.url }}/assets/docs/Hrishikesh_Dhondge_shortCV.pdf">Short resume</a></h5>
+</p>
+<i>Last updated on 14 March 2021.</i>
 
 <h4>Education</h4>
 <p>
@@ -72,7 +74,7 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
       At Student Council Symposium 2021, presented some of the results from my PhD. <a href="https://doi.org/10.5281/zenodo.5146027" target="_blank">Click here</a> to see the poster.
     </li>
   <li>
-      <a href="https://github.com/HrishiDhondge/hrishidhondge.github.io/blob/f26602f799ab7f3bb89aa6f1e6ee87997c1c4860/assets/docs/Copenhagen_Bioinformatics_Hackathon_2021.jpeg">People's pick award</a> for the challenge "Predicting multi-mutant miniprotein stability" in <a href="https://biohackathon.biolib.com/event/2021-protein-edition/" target="_blank">Copenhagen Bioinformatics Hackathon 2021</a> edition.
+      People's pick award for the challenge "Predicting multi-mutant miniprotein stability" in <a href="https://biohackathon.biolib.com/event/2021-protein-edition/" target="_blank">Copenhagen Bioinformatics Hackathon 2021</a> edition.
     </li>
     <li>
       Coordinator of the Tech-expo event held at MGM College of CS & IT Nanded in 2017.
