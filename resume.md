@@ -81,6 +81,19 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
       Presented a poster on Biomarkers in a national conference held at BAMU, Aurangabad in 2014.
   </li>
 </ul>
+
+<h4>Volunteer:</h4>
+<p>
+
+<ul>
+    [Lectures Without Borders (LeWiBo)](https://lewibo.org/) aims to bring science and scientists into the classrooms both on- and offline to empower, inspire and motivate kids and teens and to provide a safe environment for a dialogue, discussion and exchange between scientists, teachers and school students.
+  <li>
+    March 9th 2022 - Talk at ChimBio school, Russia on [Proteins](https://lewibo.org/tpost/4ec881hfn1-proteins-building-blocks-of-life). 
+  </li>
+</ul>
+</p>
+
+
 <h4> Participation </h4>
 <ul>
   <li>
