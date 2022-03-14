@@ -54,7 +54,7 @@ title: Resume
 </p>
 
 
-<h4>Experience:</h4>
+<h4>Experience</h4>
 <p>
 I am an adaptable professional that embraces teamwork, but also enjoys working independently.
 <ul>
@@ -72,7 +72,7 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
       At Student Council Symposium 2021, presented some of the results from my PhD. <a href="https://doi.org/10.5281/zenodo.5146027" target="_blank">Click here</a> to see the poster.
     </li>
   <li>
-      People's pick award for the challenge "Predicting multi-mutant miniprotein stability" in <a href="https://biohackathon.biolib.com/event/2021-protein-edition/" target="_blank">Copenhagen Bioinformatics Hackathon 2021</a> edition.
+      <a href="file:///assets/docs/Copenhagen_Bioinformatics_Hackathon_2021.jpeg">People's pick award</a> for the challenge "Predicting multi-mutant miniprotein stability" in <a href="https://biohackathon.biolib.com/event/2021-protein-edition/" target="_blank">Copenhagen Bioinformatics Hackathon 2021</a> edition.
     </li>
     <li>
       Coordinator of the Tech-expo event held at MGM College of CS & IT Nanded in 2017.
@@ -82,15 +82,14 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
   </li>
 </ul>
 
-<h4>Volunteer:</h4>
+<h4>Volunteer</h4>
 <p>
-
 <ul>
   <li>
     <a href="https://lewibo.org/" target="_blank">Lectures Without Borders (LeWiBo)</a> aims to bring science and scientists into the classrooms both on- and offline to empower, inspire and motivate kids and teens and to provide a safe environment for a dialogue, discussion and exchange between scientists, teachers and school students.
     <ul>
       <li>
-        March 9th 2022 - Talk at ChimBio school, Russia on <a href="https://lewibo.org/tpost/4ec881hfn1-proteins-building-blocks-of-life" target="_blank">Proteins</a>. 
+        <a href="file:///assets/docs/Talk_ChimBio_school_20220309.pdf">March 9th 2022</a> - Talk at ChimBio school, Russia on <a href="https://lewibo.org/tpost/4ec881hfn1-proteins-building-blocks-of-life" target="_blank">Proteins</a>. 
       </li>
     </ul>
   </li>
