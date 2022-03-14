@@ -28,8 +28,8 @@ title: Resume
 }
 </style>
 
-<p align="Right">
-<h5><a href="{{ site.url }}/assets/docs/Hrishikesh_Dhondge_shortCV.pdf">Short resume</a></h5>
+<p align="right">
+<a href="{{ site.url }}/assets/docs/Hrishikesh_Dhondge_shortCV.pdf">Short resume</a>
 </p>
 <i>Last updated on 14 March 2021.</i>
 
