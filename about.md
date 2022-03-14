@@ -13,5 +13,5 @@ layout: page
 <p>Currently, I am enrolled as a PhD student at LORIA (CNRS, University of Lorraine, INRIA). I am a part of RNAct which is a Marie Skłodowska-Curie Innovative Training Network (MSCA-ITN) project.</p>
 
 <h4>Interest</h4>
-<p>My research interest includes structural biology, machine learning and NGS data analysis.</p>
+<p>My research interest includes structural bioinformatics specially biomolecular dynamics, method/workflow delevelopment and machine learning.</p>
 
