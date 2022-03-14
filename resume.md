@@ -86,9 +86,13 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
 <p>
 
 <ul>
-    [Lectures Without Borders (LeWiBo)](https://lewibo.org/) aims to bring science and scientists into the classrooms both on- and offline to empower, inspire and motivate kids and teens and to provide a safe environment for a dialogue, discussion and exchange between scientists, teachers and school students.
   <li>
-    March 9th 2022 - Talk at ChimBio school, Russia on [Proteins](https://lewibo.org/tpost/4ec881hfn1-proteins-building-blocks-of-life). 
+    <a href="https://lewibo.org/" target="_blank">Lectures Without Borders (LeWiBo)</a> aims to bring science and scientists into the classrooms both on- and offline to empower, inspire and motivate kids and teens and to provide a safe environment for a dialogue, discussion and exchange between scientists, teachers and school students.
+    <ul>
+      <li>
+        March 9th 2022 - Talk at ChimBio school, Russia on <a href="https://lewibo.org/tpost/4ec881hfn1-proteins-building-blocks-of-life" target="_blank">Proteins</a>. 
+      </li>
+    </ul>
   </li>
 </ul>
 </p>
