@@ -31,26 +31,26 @@ title: Resume
 <p align="right">
 <a href="{{ site.url }}/assets/docs/Hrishikesh_Dhondge_shortCV.pdf">Short resume</a>
 </p>
-<i>Last updated on 14 March 2021.</i>
+<i>Last updated on 24 July 2023.</i>
 
 <h4>Education</h4>
 <p>
 <ul>
   <li>
-    Oct 2019 – Present: <b> PhD in Computational Biology, at <i><a href="https://www.loria.fr/en/" target="_blank">LORIA</a> (CNRS, University of Lorraine, INRIA)</i>.</b> <br>
-    Marie-Sklodowska Curie PhD student. Part of <a href="http://rnact.eu/" target="_blank">RNAct</a> MSCA-ITN project.<br>
+    Oct 2019 – July 2023: PhD from <i>Université de Lorraine (<a href="https://capsid.loria.fr/" target="_blank">CAPSID team</a>, CNRS, Inria, LORIA)</i>.<br>
+    - My thesis was a part of Marie Skłodowska-Curie Innovative Training Network (MSCA-ITN) project, <a href="http://rnact.eu/" target="_blank">RNAct</a>.<br>
     - My doctoral thesis focuses on the data integration and analysis of RNA recognition motifs (RRMs) to help modeling their 3D structure and their binding to RNA.<br>
   </li><br>
   <li>
-      March 2021-July 2021: <b>Research Stay</b> at <a href="https://www.vub.be/" target="_blank" >Vrije Universiteit Brussel</a>, Belgium in <a href="https://bio2byte.be/" target="_blank">Bio2Byte group</a>.<br>
+      March 2021-July 2021: Research Stay at <a href="https://www.vub.be/" target="_blank" >Vrije Universiteit Brussel</a>, Belgium in <a href="https://bio2byte.be/" target="_blank">Bio2Byte group</a>.<br>
   </li><br>
   <li>
-    2017 – 2019: <b> MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics</i></a>, Pondicherry University.</b> <br>
+    2017 – 2019: MSc in Bioinformatics, <a href="https://bicpu.edu.in/" target="_blank"> <i>Centre for Bioinformatics</i></a>, Pondicherry University. <br>
     Thesis topic: DNA-based data storage system. Supervisor: <a href="http://www.pondiuni.edu.in/profile/dr-m-suresh-kumar" target="_blank">Dr. M. Suresh Kumar</a>.<br>
     - I worked on computational aspects of DNA-based data storage system. We showed that the use of modified nucleotides will increase the storage density by creating a 4-layer encoding strategy, and achieved data storage capacity of 1 byte per two nucleotide base pairs without any compression. <br>
   </li><br>
   <li>
-    2014 – 2017: <b> BSc in Bioinformatics, <i><a href="http://www.mgmccsit.ac.in/" target="_blank">MGM's college of CS & IT, Nanded</a> affiliated to <a href="http://www.srtmun.ac.in/en/" target="_blank">SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY, Nanded</a></i>.</b> 
+    2014 – 2017: BSc in Bioinformatics, <i><a href="http://www.mgmccsit.ac.in/" target="_blank">MGM's college of CS & IT, Nanded</a> affiliated to <a href="http://www.srtmun.ac.in/en/" target="_blank">SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY, Nanded</a></i>. 
   </li>
 </ul>
 </p>
@@ -61,7 +61,7 @@ title: Resume
 I am an adaptable professional that embraces teamwork, but also enjoys working independently.
 <ul>
   <li>
-    May 2018 – July 2018: <b>Internship student, <i>at Bose Institute, Kolkata</i> under the guidance of <a href="http://www.jcbose.ac.in/faculty-details/sudipto-saha" target="_blank"> Dr Sudipto Saha.</a></b> Worked on Bayesian inference for Fluoroquinolone Resistant Mycobacterium tuberculosis WGS data.
+    May 2018 – July 2018: Internship student, <i>at Bose Institute, Kolkata</i> under the guidance of <a href="http://www.jcbose.ac.in/faculty-details/sudipto-saha" target="_blank"> Dr Sudipto Saha.</a> Worked on Bayesian inference for Fluoroquinolone Resistant Mycobacterium tuberculosis WGS data.
   </li>
 </ul>
 </p>
@@ -102,7 +102,7 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
 <h4> Participation </h4>
 <ul>
   <li>
-      Participated in 19th European Conference on Computational Biology(ECCB2020).
+      Participated in 19th European Conference on Computational Biology (ECCB2020).
     </li>
   <li>
       Participated in One-day Symposium on “Cross-talk in Omics” organized by Centre for Bioinformatics, Pondicherry University.

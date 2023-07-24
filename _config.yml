@@ -1,9 +1,9 @@
 # main text of home
 name: Hrishikesh Dhondge
-bio: PhD student at LORIA (CNRS, University of Lorraine, INRIA).
+bio: PhD from Université de Lorraine (CAPSID team at LORIA-INRIA, CNRS)
 
 # twitter summary info
-description: "PhD student at LORIA (CNRS, University of Lorraine, INRIA)"
+description: "PhD from Université de Lorraine (CAPSID team at LORIA-INRIA, CNRS)"
 
 # if it's an external image, update below for true
 # better with square images
@@ -43,13 +43,13 @@ twitter: hbdhondge
 #kaggle: edenau
 #codewars: edenau
 email: hbdhondge@gmail.com
-# youtube: channel/UC3Q7iZXB950Bvtjpml9jqZg
+# youtube: channel/channel_URL
 # instagram: myinstagram
 # pinterest: mypinterest
 # spotify: myspotify
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+# stackoverflow: 77777/mystackoverflow
 # quora: userquora
 # reddit: au_eden
 # vimeo: myvimeo
@@ -58,7 +58,7 @@ email: hbdhondge@gmail.com
 authors:
     HrishiDhondge:
         name: Hrishikesh Dhondge
-        #bio: share the joy💪
+        bio: Our ideals are our better selves. #💪
         external-image: false
         picture: assets/images/profile.jpg
         twitter: hbdhondge
