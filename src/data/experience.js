@@ -1,41 +1,35 @@
 const experience = [
   {
     id: 1,
-    title: "Software Engineer",
-    company: "OpenAI",
-    date: "2021 - Present",
+    title: "Specialist: CADD & Informatics",
+    company: "Aurigene Pharmaceuticals Services Limited, Bengaluru",
+    date: "Jan 2025 - Present",
     description: [
-      "Built scalable backend services",
-      "Implemented real-time features with WebSockets",
-      "Optimized API performance by 40%"
+      // "Built scalable backend services",
+      // "Implemented real-time features with WebSockets",
+      // "Optimized API performance by 40%"
     ],
     skills: [
       "Machine Learning",
-      "Genomics",
       "Python",
-      "R",
       "Pipeline Development"
     ]
   },
   {
     id: 2,
-    title: 'Intern',
-    company: 'Startup Inc',
-    date: '2020 - 2021',
-    description:
-      'Worked on frontend features and bug fixes, collaborated closely with senior developers.',
+    title: 'Postdoctoral Researcher',
+    company: 'Institut Curie, Paris',
+    date: '2024 - 2025',
+    description: [
+      'Deciphering the recombination patterns during meiosis via DNA double Strand Breaks repair‑associated tracts.',
+      '➤ Nanopore sequencing data analysis and detection of modified bases',
+      '➤ Set up and develop new workflows on an in‑house cluster with Docker'
+    ],
     skills: [
+      "Genomics",
       "Machine Learning",
       "Python"
     ]
-  },
-  {
-    id: 3,
-    title: 'B.Sc Computer Science',
-    company: 'XYZ University',
-    date: '2016 - 2020',
-    description:
-      'Studied computer science with a focus on software engineering, algorithms, and data structures.',
   },
 ]
 

@@ -5,10 +5,13 @@ import "./Blog.css";
 
 const Blog = () => (
   <div className="blog-container">
-    <h1>Blog</h1>
+    <h1>The Iteratives</h1>
+    <p style={{ fontSize: '1rem', fontStyle: 'italic', marginTop: '-0.95rem', marginLeft: '2rem' }}>
+    Little iterations of ideas and curiosity.
+  </p>
     Hi there! 
     This blog is where I write about my side projects — 
-    the experiments, ideas, and little adventures that keep me curious. 
+    the experiments, ideas, and explorations that keep me curious.
     Sometimes it&apos;s code, sometimes it&apos;s design, and 
     sometimes it&apos;s just lessons learned along the way. 
     If you enjoy building things for fun, you&apos;ll feel right at home here. 
@@ -34,7 +37,7 @@ const Blog = () => (
       </div>
     ))}
     <footer className="footer">
-    © 2025 Blog by John Smith
+    © 2025 Blog by Hrishikesh Dhondge
   </footer>
   </div>
 );
