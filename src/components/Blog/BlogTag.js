@@ -15,13 +15,13 @@ const BlogTag = () => {
       {filteredPosts.map(post => (
         <div key={post.slug} className="blog-card" style={{ marginBottom: "2rem" }}>
           <h2>
-            <Link to={`/cleanfolio/blog/${post.slug}`}>{post.title}</Link>
+            <Link to={`/blog/${post.slug}`}>{post.title}</Link>
           </h2>
           <small>{post.date}</small>
         </div>
       ))}
       <div style={{ marginTop: "2rem" }}>
-        <Link to="/cleanfolio/blog">← Back to Blog</Link>
+        <Link to="/blog">← Back to Blog</Link>
       </div>
     </div>
   );

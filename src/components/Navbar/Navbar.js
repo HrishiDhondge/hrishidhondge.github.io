@@ -28,7 +28,7 @@ const Navbar = () => {
             {projects.length ? (
               <li>
                 <a
-                  href="/cleanfolio#projects"
+                  href="/#projects"
                   onClick={toggleNavList}
                   className="link link--nav"
                 >
@@ -40,7 +40,7 @@ const Navbar = () => {
             {skills.length ? (
               <li>
                 <a
-                  href="/cleanfolio#skills"
+                  href="/#skills"
                   onClick={toggleNavList}
                   className="link link--nav"
                 >
@@ -52,7 +52,7 @@ const Navbar = () => {
             {contact.email ? (
               <li>
                 <a
-                  href="/cleanfolio#contact"
+                  href="/#contact"
                   onClick={toggleNavList}
                   className="link link--nav"
                 >
@@ -65,7 +65,7 @@ const Navbar = () => {
 
         <li className='nav__list-item'>
           <Link
-            to='/cleanfolio/career'
+            to='/career'
             onClick={toggleNavList}
             className='link link--nav'
           >
@@ -75,7 +75,7 @@ const Navbar = () => {
 
         <li className='nav__list-item'>
           <Link
-            to='/cleanfolio/blog'
+            to='/blog'
             onClick={toggleNavList}
             className='link link--nav'
           >

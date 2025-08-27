@@ -20,7 +20,7 @@ const Blog = () => (
     {posts.map(post => (
       <div key={post.slug} className="blog-card">
         <h2>
-          <Link to={`/cleanfolio/blog/${post.slug}`}>{post.title}</Link>
+          <Link to={`/blog/${post.slug}`}>{post.title}</Link>
         </h2>
         <div className="blog-meta">
           <span className="author">{post.author}</span>
@@ -29,7 +29,7 @@ const Blog = () => (
         <p className="summary">{post.summary}</p>
         <div className="blog-tags">
           {post.tags.map(tag => (
-            <Link key={tag} to={`/cleanfolio/blog/tag/${tag}`} className="tag">
+            <Link key={tag} to={`/blog/tag/${tag}`} className="tag">
               {tag}
             </Link>
           ))}

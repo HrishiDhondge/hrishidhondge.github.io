@@ -26,7 +26,7 @@ const App = () => {
         <main className="main-content">
           <Routes>
             <Route
-              path="/cleanfolio"
+              path="/"
               element={
                 <>
                   <About />
@@ -36,10 +36,10 @@ const App = () => {
                 </>
               }
             />
-            <Route path="/cleanfolio/blog" element={<Blog />} />
-            <Route path="/cleanfolio/blog/:slug" element={<BlogPost />} />
-            <Route path="/cleanfolio/blog/tag/:tag" element={<BlogTag />} />
-            <Route path="/cleanfolio/career" element={<Career />} />
+            <Route path="/blog" element={<Blog />} />
+            <Route path="/blog/:slug" element={<BlogPost />} />
+            <Route path="/blog/tag/:tag" element={<BlogTag />} />
+            <Route path="/career" element={<Career />} />
 
             <Route path="*" element={<NotFound />} />
           </Routes>

@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://hrishidhondge.github.io/cleanfolio',
+  homepage: 'https://hrishidhondge.github.io/',
   title: 'HD.',
 }
 
@@ -11,8 +11,8 @@ const about = {
   picture: 'https://avatars.githubusercontent.com/u/21256741',
 
   description:
-    'Computational researcher by profession, developer by passion. Problem solver with extensive experience in Linux, SQL, and Python. Like to take on new challenges and always ready to dive into exciting projects.',
-  resume: 'https://example.com',
+    'Computational researcher by profession, developer by passion. Problem solver with extensive experience in Linux, SQL, and Python. Like to take on new challenges and always ready to dive into exciting projects. Currently working at the intersection of machine learning and system design.',
+  // resume: 'https://example.com',
   social: {
     linkedin: 'http://linkedin.com/in/hrishikesh-dhondge',
     github: 'https://github.com/HrishiDhondge',

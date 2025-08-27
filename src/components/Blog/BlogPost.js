@@ -41,7 +41,7 @@ const BlogPost = () => {
         <div className="blogpost-tags">
           <span className="blogpost-text-label">Tags:</span>
           {tags.map(tag => (
-            <Link key={tag} to={`/cleanfolio/blog/tag/${tag}`} className="blogpost-tag">
+            <Link key={tag} to={`/blog/tag/${tag}`} className="blogpost-tag">
               {tag}
             </Link>
           ))}
@@ -50,7 +50,7 @@ const BlogPost = () => {
       </div>
 
       <div className="blogpost-back">
-        <Link to="/cleanfolio/blog">← Back to Blog</Link>
+        <Link to="/blog">← Back to Blog</Link>
       </div>
     </div>
   );
