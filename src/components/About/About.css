@@ -12,13 +12,20 @@
 }
 
 .about__desc {
+  margin-top: 2.4em;
   font-size: 1rem;
   max-width: 600px;
+  text-align: justify;
 }
 
-.about__desc,
 .about__contact {
   margin-top: 2.4em;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
 }
 
 .about .link--icon {
@@ -39,19 +46,22 @@
 .about__header {
   display: flex;
   align-items: center;
-  gap: 1.5rem; /* space between picture and text */
+  gap: 1.2rem; /* space between picture and text */
   margin-bottom: 1.5rem;
+  flex-wrap: wrap;
 }
 
 .about__picture {
   width: 180px;
   height: 180px;
-  border-radius: 70%;   /* round profile */
+  border-radius: 50%;   /* round profile */
   object-fit: cover;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
 .about__intro {
+  flex: 1;
+  min-width: 320px;
   display: flex;
   flex-direction: column;
 }

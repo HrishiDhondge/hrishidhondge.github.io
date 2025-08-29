@@ -1,9 +1,13 @@
 import { header } from '../../portfolio'
-import Navbar from '../Navbar/Navbar'
+import { useLocation } from 'react-router-dom'
+import NavbarMain from '../Navbar/NavbarMain'
+import NavbarBlog from '../Navbar/BlogNavbar'
 import './Header.css'
 
 const Header = () => {
   const { homepage, title } = header
+  const location = useLocation()
+  const isBlogRoute = location.pathname.startsWith('/blog')
 
   return (
     <header className='header center'>
@@ -16,7 +20,8 @@ const Header = () => {
           title
         )}
       </h3>
-      <Navbar />
+      {isBlogRoute ? <NavbarBlog /> : <NavbarMain />}
+      {/* <Navbar /> */}
     </header>
   )
 }

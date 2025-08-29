@@ -8,7 +8,7 @@ import { ThemeContext } from '../../contexts/theme'
 import { projects, skills, contact } from '../../portfolio'
 import './Navbar.css'
 
-const Navbar = () => {
+const NavbarMain = () => {
   const [{ themeName, toggleTheme }] = useContext(ThemeContext)
   const [showNavList, setShowNavList] = useState(false)
 
@@ -106,4 +106,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default NavbarMain
