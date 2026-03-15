@@ -1,3 +1,7 @@
+import CareerSection from './components/Career/CareerSection'
+import experience from './data/experience'
+import education from './data/education'
+
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://hrishidhondge.github.io/',
@@ -29,7 +33,7 @@ const projects = [
     stack: ['Bash', 'Python', 'CWL', '3D-structure', 'Protein Domains'],
     sourceCode: 'https://github.com/HrishiDhondge/CroMaSt.git',
     livePreview: 'https://doi.org/10.48546/WORKFLOWHUB.WORKFLOW.390.2',
-    image: 'https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformaticsadvances/3/1/10.1093_bioadv_vbad081/1/vbad081f3.jpeg?Expires=1758845441&Signature=Bczej6t-OFV8~xGa7K1uKNCWaXxy9ukTfEKYsMPaeuuIa3AaM52KIF8yFY4lpkg2s5v1F8NG92leBseTQhTsBG6ihPwyr~P7OE7OOhyDDGor7tP9AnxaOPoqM-a4dFqP7EDf7ovtDv6gHDJdO~1t0b5DGAB9D1eNJE9Gonnu5zzQoxueFbPN6bHGUBYJTIJsRvbRCQAwrr3Cd2pCG4C~mO4FydYclYAiSJvn-ePF~IC7i9PNQhRhbarJCazBJF-yFallRN913Yn8dEeK0BNpWJ2YqOPY8FGUqQ6-mBC6q0Z6WIckC2sdilICu51-rITNJy3wSlp5jseYJm3gLSb-0g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA',
+    image: 'CroMaSt_conceptual_model.jpeg',
   },
   {
     name: 'InteR3M Database',
@@ -55,7 +59,7 @@ const projects = [
 const skills = [
   {
     category: 'Programming',
-    items: ['Python', 'Bash', 'R', 'Perl', 'Common Workflow Language (CWL)'],
+    items: ['Python', 'Bash', 'Common Workflow Language (CWL)', 'Nextflow', 'R', 'Perl'],
   },
   {
     category: 'Back-end',
@@ -96,4 +100,44 @@ const contact = {
   // email: 'yourid@mail.com',
 }
 
-export { header, about, projects, skills, contact }
+const Career = () => {
+    const hasExperience = Array.isArray(experience) && experience.length > 0
+    const hasEducation = Array.isArray(education) && education.length > 0
+
+    const isEmpty = !hasExperience && !hasEducation
+
+    return (
+        <div className="career-page" >
+            {isEmpty ? (
+                <div className="career-empty-block" style={{ textAlign: "center", margin: "3rem 0" }}>
+                    <h2 className="career-empty-title" style={{ marginBottom: "1rem" }}>Career</h2>
+                    <p className="career-empty" style={{ fontStyle: "italic", fontSize: "1.1rem" }}>
+                        🚧 This page is under construction. Check back soon!
+                    </p>
+                </div>
+            ) : (
+                <>
+                    {hasExperience && (
+                        <CareerSection
+                            id="experience"
+                            title="Experience"
+                            data={experience}
+                        />
+                    )}
+
+                    {hasEducation && (
+                        <div style={{ marginTop: "3rem" }}>
+                        <CareerSection
+                            id="education"
+                            title="Education"
+                            data={education}
+                        />
+                        </div>
+                    )}
+                </>
+            )}
+        </div>
+    )
+}
+
+export { header, about, projects, skills, Career, contact }
